@@ -1,5 +1,4 @@
-# LSF
-Light &amp; Salt Family
+# LSF documentation
 
 ## Welcome
 The not-offical repo for live sound control and powerpoints documentation.
