@@ -8,3 +8,8 @@ All files in the root directory is licensed under the GNU GPLv3 license. Files i
 
 For LSF members, become a collaborator by creating a new issue with title "I want to collaborate"
 
+##File comments
+| File name | Description 	|
+| ---		| ---		 	|
+| who cares.pptx| test templete for presentation|
+ 
